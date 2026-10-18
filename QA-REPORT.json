@@ -8,8 +8,7 @@
   "limitations": [
     "Visual review at one Windows DPI/window size; no claim of accessibility conformance for every background pixel.",
     "Mica/Acrylic are Windows window materials, not an assertion that background-image pixels are blurred.",
-    "macOS/Linux and public release downloads not tested.",
-    "Only local submission draft updated; live user theme configuration unchanged."
+    "macOS/Linux and public release downloads not tested."
   ],
   "themes": [
     {
@@ -108,5 +107,6 @@
       "result": "visually reviewed",
       "notes": "雨城轮廓可见，亮色正文、青色强调与状态色清楚；保留 62% 和 Acrylic。"
     }
-  ]
+  ],
+  "publication_note": "Author/license metadata finalized for v1.0.0; visual settings and captured previews unchanged."
 }
