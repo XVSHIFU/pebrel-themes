@@ -1,0 +1,89 @@
+{
+  "terminal": {
+    "foreground": "#dfeae2",
+    "selection_background": "#304e40",
+    "selection_foreground": "#dfeae2",
+    "background": "#111c19",
+    "cursor": "#8cd3ae",
+    "palette": [
+      "#293d33",
+      "#ef9290",
+      "#9cd19c",
+      "#e4c28b",
+      "#92bce0",
+      "#c3ade0",
+      "#87cec8",
+      "#dfeae2",
+      "#899e90",
+      "#ffb0a9",
+      "#b7e7b2",
+      "#f4d8a8",
+      "#b0d5f2",
+      "#dbc6f1",
+      "#ade6dc",
+      "#f3f7ef"
+    ],
+    "cursor_text": "#111c19",
+    "cursor_stroke": null
+  },
+  "ui": {
+    "border": "#354e41",
+    "frame": "#354e41",
+    "sidebar": "#16241f",
+    "foreground": "#dfeae2",
+    "derive": false,
+    "danger": "#ef9290",
+    "selected": "#304e40",
+    "success": "#9cd19c",
+    "background": "#111c19",
+    "warning": "#e4c28b",
+    "accent": "#8cd3ae",
+    "muted": "#a2b8aa",
+    "info": "#87cec8"
+  },
+  "typography": {
+    "ligatures": true,
+    "enabled": false,
+    "font_family": null,
+    "font_size": null,
+    "font_weight": null,
+    "line_height": null,
+    "letter_spacing": null,
+    "ui_font_family": null,
+    "ui_font_size": null
+  },
+  "layout": {
+    "divider_width": 1.0,
+    "gutter": 6.0,
+    "radius": 8.0,
+    "shadow": false,
+    "padding_x": null,
+    "padding_y": null
+  },
+  "effects": {
+    "opacity": 100.0,
+    "material": "solid",
+    "blur": "none",
+    "background_image": "",
+    "background_media_kind": "image",
+    "background_image_opacity": null,
+    "background_image_fit": null,
+    "background_image_alignment": null,
+    "background_image_cover_chrome": false,
+    "cursor_shape": null
+  },
+  "schema_version": 1,
+  "id": "ink-bamboo",
+  "revision": 0,
+  "builtin": false,
+  "name": "墨竹 · ink-bamboo",
+  "appearance": "dark",
+  "metadata": {
+    "author": "XVSHIFU",
+    "version": "1.0.0",
+    "license": "MIT",
+    "source": "https://github.com/XVSHIFU/pebrel-themes",
+    "background_provenance": "No background image"
+  },
+  "extensions": {}
+}

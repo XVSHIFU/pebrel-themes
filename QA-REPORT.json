@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-18",
+  "platform": "Windows",
+  "pebrel_version": "2.2.2 (9db57b6)",
+  "method": "Each ZIP imported into a dedicated PEBREL_CONFIG_DIR. Each theme loaded in a separate real Pebrel process; terminal content sent with the Runtime API. Native window resized to 1600x1000 physical pixels and the DWM visible bounds captured from the desktop. No screenshot retouching or simulated UI. QA windows closed through the Runtime API. This is a per-theme render test, not a hot-switch API test.",
+  "demo": "Dedicated PowerShell output, not real project/build results. Chinese, English, ANSI 16 colors, comments, code, status labels and sidebar selection.",
+  "font": "Maple Mono Normal NF CN, logical font_size=13; font setting belongs to QA profile, not forced by theme.",
+  "limitations": [
+    "Visual review at one Windows DPI/window size; no claim of accessibility conformance for every background pixel.",
+    "Mica/Acrylic are Windows window materials, not an assertion that background-image pixels are blurred.",
+    "macOS/Linux and public release downloads not tested.",
+    "Only local submission draft updated; live user theme configuration unchanged."
+  ],
+  "themes": [
+    {
+      "id": "rice-paper",
+      "name": "宣纸",
+      "preview": "themes/rice-paper/preview.png",
+      "preview_sha256": "771f8581fcaa411b189f4696857b8c925c2fb58f09f26114ce7f6c4d2be32b43",
+      "size": [
+        1582,
+        991
+      ],
+      "result": "visually reviewed",
+      "notes": "修正 ANSI 7/15：从接近纸白改为 #505448 / #393c33，避免显式白色终端文字消失。正文、提示与选中项清晰。"
+    },
+    {
+      "id": "ink-bamboo",
+      "name": "墨竹",
+      "preview": "themes/ink-bamboo/preview.png",
+      "preview_sha256": "79f3892efc4ab4435ab84f8d024b23c0bed714a6e674cfbb9d55fd29b878c107",
+      "size": [
+        1582,
+        991
+      ],
+      "result": "visually reviewed",
+      "notes": "深墨底色稳定，普通文字及红黄绿提示清晰；灰色注释有明确层次。"
+    },
+    {
+      "id": "watercolor-reverie",
+      "name": "水彩幻境",
+      "preview": "themes/watercolor-reverie/preview.png",
+      "preview_sha256": "29898ae3bca66266d0dd94facbdcebcadddc052c0244dcfeabc33961c1534052",
+      "size": [
+        1582,
+        991
+      ],
+      "result": "visually reviewed",
+      "notes": "画面主体位于右侧，左侧留白；正文、彩色代码与底部背景叠加均可辨认。"
+    },
+    {
+      "id": "pastel-arcades",
+      "name": "云上回廊",
+      "preview": "themes/pastel-arcades/preview.png",
+      "preview_sha256": "f92e0fd0c6ac25a07106c9bbee24b5d4c8b75b510a13b30ce45d1161115f9232",
+      "size": [
+        1582,
+        991
+      ],
+      "result": "visually reviewed",
+      "notes": "建筑亮部集中右侧，暖白蒙层保持文字清晰；保留原来的 69% 窗口不透明度。"
+    },
+    {
+      "id": "concrete-sunlight",
+      "name": "光庭",
+      "preview": "themes/concrete-sunlight/preview.png",
+      "preview_sha256": "5601be3838c8d4aed60e9373706e966ff3ff527e29b4bc74bb20e2ec98569632",
+      "size": [
+        1582,
+        991
+      ],
+      "result": "visually reviewed",
+      "notes": "斜向光影及水面经过文字区，70% 窗口不透明度下正文与提示仍清晰。"
+    },
+    {
+      "id": "lily-atelier",
+      "name": "睡莲画室",
+      "preview": "themes/lily-atelier/preview.png",
+      "preview_sha256": "f32acdbcb423622fd2a21dc324c0d1b9473c1c7d5994e06ff91894c81c5bc36a",
+      "size": [
+        1582,
+        991
+      ],
+      "result": "visually reviewed",
+      "notes": "八款中纹理最丰富；64% 窗口不透明度下深紫正文与彩色提示可辨认，保留画作质感。"
+    },
+    {
+      "id": "pixel-harbor",
+      "name": "像素海港",
+      "preview": "themes/pixel-harbor/preview.png",
+      "preview_sha256": "4a787abacbdbc7104e9293dc13a9ef2deb8d6bd6a69f5e40293a127bd36f571a",
+      "size": [
+        1582,
+        991
+      ],
+      "result": "visually reviewed",
+      "notes": "深蓝背景与亮色正文搭配清楚；底部灯光和水面反光未掩盖演示文字。"
+    },
+    {
+      "id": "rain-city-glass",
+      "name": "霓虹雨城",
+      "preview": "themes/rain-city-glass/preview.png",
+      "preview_sha256": "006359a8473a6768ac54d4c78d8e90f047d6afef7c5ca8a466350e4f739fd912",
+      "size": [
+        1582,
+        991
+      ],
+      "result": "visually reviewed",
+      "notes": "雨城轮廓可见，亮色正文、青色强调与状态色清楚；保留 62% 和 Acrylic。"
+    }
+  ]
+}

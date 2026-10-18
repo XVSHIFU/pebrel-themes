@@ -1,0 +1,21 @@
+Pebrel collection v2
+Generated backgrounds: built-in image_gen.
+
+watercolor-reverie
+Create ONE finished high resolution 16:9 landscape terminal wallpaper, ideally 2560x1440 or larger. a delicate contemporary watercolor fantasy landscape: translucent pale jade ruined arches and blush pink trees suspended in luminous ivory mist along far right and bottom edges, poetic pigment blooms. Beautiful professional art direction. Wide landscape, not a collage. Crucial functional composition: left 65 percent and central area quiet, low contrast, minimal details for readable terminal text; visual subject on right and bottom margins. No text, no numbers, no logo, no UI, no border, no watermark.
+
+pastel-arcades
+Create ONE finished high resolution 16:9 landscape terminal wallpaper, ideally 2560x1440 or larger. impossible isometric architectural dreamscape: elegant stairs and arcades in matte peach limestone and pale mint plaster floating in creamy sky at right edge, crisp geometry and gentle shadows, minimalist game concept art. Beautiful professional art direction. Wide landscape, not a collage. Crucial functional composition: left 65 percent and central area quiet, low contrast, minimal details for readable terminal text; visual subject on right and bottom margins. No text, no numbers, no logo, no UI, no border, no watermark.
+
+concrete-sunlight
+Create ONE finished high resolution 16:9 landscape terminal wallpaper, ideally 2560x1440 or larger. fine architectural photography of a minimalist warm grey concrete courtyard, a broad quiet plaster wall dominates left two thirds, a diagonal soft afternoon sunbeam, small reflecting pool and olive branch at far right, tactile refined architecture. Beautiful professional art direction. Wide landscape, not a collage. Crucial functional composition: left 65 percent and central area quiet, low contrast, minimal details for readable terminal text; visual subject on right and bottom margins. No text, no numbers, no logo, no UI, no border, no watermark.
+
+lily-atelier
+Create ONE finished high resolution 16:9 landscape terminal wallpaper, ideally 2560x1440 or larger. impressionist oil painting of a tranquil waterlily pond, pale lilac and sage reflections, loose authentic brushwork, sparse pink lilies near bottom and right margins, very quiet luminous pale water on left. Beautiful professional art direction. Wide landscape, not a collage. Crucial functional composition: left 65 percent and central area quiet, low contrast, minimal details for readable terminal text; visual subject on right and bottom margins. No text, no numbers, no logo, no UI, no border, no watermark.
+
+pixel-harbor
+Create ONE finished high resolution 16:9 landscape terminal wallpaper, ideally 2560x1440 or larger. authentic precise 16-bit pixel art night harbor, tiny amber lit coastal houses at far right, distant indigo mountains at bottom, huge quiet deep navy sky and calm sea, very few stars, visible crisp pixel clusters, no photorealism. Beautiful professional art direction. Wide landscape, not a collage. Crucial functional composition: left 65 percent and central area quiet, low contrast, minimal details for readable terminal text; visual subject on right and bottom margins. No text, no numbers, no logo, no UI, no border, no watermark.
+
+rain-city-glass
+Create ONE finished high resolution 16:9 landscape terminal wallpaper, ideally 2560x1440 or larger. cinematic photoreal futuristic rain city, distant slender cyan and warm amber neon buildings confined to far right and lower edge, wet reflections, very dark empty blue-black negative space on left two thirds, gentle optical bokeh in distance, restrained neon. Beautiful professional art direction. Wide landscape, not a collage. Crucial functional composition: left 65 percent and central area quiet, low contrast, minimal details for readable terminal text; visual subject on right and bottom margins. No text, no numbers, no logo, no UI, no border, no watermark.
+

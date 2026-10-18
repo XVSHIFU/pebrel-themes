@@ -1,0 +1,89 @@
+{
+  "terminal": {
+    "background": "#0b1922",
+    "foreground": "#e3f1f5",
+    "cursor_text": "#0b1922",
+    "selection_background": "#264c5c",
+    "selection_foreground": "#e3f1f5",
+    "palette": [
+      "#243a4c",
+      "#f09ba9",
+      "#a1d6b5",
+      "#eac788",
+      "#95bfea",
+      "#c6ade4",
+      "#8fd5da",
+      "#e3f1f5",
+      "#99abc1",
+      "#ffb5bf",
+      "#bae8cc",
+      "#fadeaa",
+      "#b5d8fa",
+      "#e2c9f6",
+      "#b4eced",
+      "#f8fbff"
+    ],
+    "cursor": "#8ad8ea",
+    "cursor_stroke": null
+  },
+  "ui": {
+    "success": "#a1d6b5",
+    "background": "#0b1922",
+    "accent": "#8ad8ea",
+    "selected": "#264c5c",
+    "danger": "#f09ba9",
+    "foreground": "#e3f1f5",
+    "info": "#8fd5da",
+    "border": "#3c6475",
+    "muted": "#a1bcc7",
+    "sidebar": "#10242e",
+    "derive": false,
+    "warning": "#eac788",
+    "frame": "#3c6475"
+  },
+  "typography": {
+    "enabled": false,
+    "ligatures": true,
+    "font_family": null,
+    "font_size": null,
+    "font_weight": null,
+    "line_height": null,
+    "letter_spacing": null,
+    "ui_font_family": null,
+    "ui_font_size": null
+  },
+  "layout": {
+    "shadow": false,
+    "divider_width": 1.0,
+    "gutter": 6.0,
+    "radius": 8.0,
+    "padding_x": null,
+    "padding_y": null
+  },
+  "effects": {
+    "blur": "acrylic",
+    "background_image_cover_chrome": true,
+    "material": "glass",
+    "background_media_kind": "image",
+    "opacity": 62,
+    "background_image_opacity": 100,
+    "background_image_fit": "uniform_to_fill",
+    "background_image_alignment": "center",
+    "background_image": "assets/background.png",
+    "cursor_shape": null
+  },
+  "schema_version": 1,
+  "id": "rain-city-glass",
+  "revision": 0,
+  "builtin": false,
+  "name": "霓虹雨城 · rain-city-glass",
+  "appearance": "dark",
+  "metadata": {
+    "author": "XVSHIFU",
+    "version": "1.0.0",
+    "license": "MIT AND CC0-1.0",
+    "source": "https://github.com/XVSHIFU/pebrel-themes",
+    "background_provenance": "AI-generated with OpenAI image_gen; CC0-1.0"
+  },
+  "extensions": {}
+}

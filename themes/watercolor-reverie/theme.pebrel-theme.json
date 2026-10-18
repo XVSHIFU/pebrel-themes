@@ -1,0 +1,89 @@
+{
+  "terminal": {
+    "background": "#f7f3ea",
+    "foreground": "#303e3b",
+    "cursor_text": "#f7f3ea",
+    "selection_background": "#d5e4da",
+    "selection_foreground": "#303e3b",
+    "palette": [
+      "#303b38",
+      "#983d49",
+      "#386649",
+      "#7c5b23",
+      "#3c628c",
+      "#79558b",
+      "#326b70",
+      "#303e3b",
+      "#60675f",
+      "#a34450",
+      "#43714f",
+      "#826122",
+      "#466d98",
+      "#865f98",
+      "#37767b",
+      "#faf8f3"
+    ],
+    "cursor": "#426e60",
+    "cursor_stroke": null
+  },
+  "ui": {
+    "success": "#386649",
+    "background": "#f7f3ea",
+    "accent": "#426e60",
+    "selected": "#d5e4da",
+    "danger": "#983d49",
+    "foreground": "#303e3b",
+    "info": "#326b70",
+    "border": "#b4c3b8",
+    "muted": "#566761",
+    "sidebar": "#ece8df",
+    "derive": false,
+    "warning": "#7c5b23",
+    "frame": "#b4c3b8"
+  },
+  "typography": {
+    "enabled": false,
+    "ligatures": true,
+    "font_family": null,
+    "font_size": null,
+    "font_weight": null,
+    "line_height": null,
+    "letter_spacing": null,
+    "ui_font_family": null,
+    "ui_font_size": null
+  },
+  "layout": {
+    "shadow": false,
+    "divider_width": 1.0,
+    "gutter": 6.0,
+    "radius": 8.0,
+    "padding_x": null,
+    "padding_y": null
+  },
+  "effects": {
+    "blur": "none",
+    "background_image_cover_chrome": true,
+    "material": "solid",
+    "background_media_kind": "image",
+    "opacity": 64,
+    "background_image_opacity": 100,
+    "background_image_fit": "uniform_to_fill",
+    "background_image_alignment": "center",
+    "background_image": "assets/background.png",
+    "cursor_shape": null
+  },
+  "schema_version": 1,
+  "id": "watercolor-reverie",
+  "revision": 0,
+  "builtin": false,
+  "name": "水彩幻境 · watercolor-reverie",
+  "appearance": "light",
+  "metadata": {
+    "author": "XVSHIFU",
+    "version": "1.0.0",
+    "license": "MIT AND CC0-1.0",
+    "source": "https://github.com/XVSHIFU/pebrel-themes",
+    "background_provenance": "AI-generated with OpenAI image_gen; CC0-1.0"
+  },
+  "extensions": {}
+}

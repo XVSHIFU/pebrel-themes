@@ -1,0 +1,89 @@
+{
+  "terminal": {
+    "foreground": "#393c33",
+    "selection_background": "#d5dfc9",
+    "selection_foreground": "#393c33",
+    "background": "#f3efe5",
+    "cursor": "#35684e",
+    "palette": [
+      "#393c33",
+      "#a33935",
+      "#3f6538",
+      "#805d18",
+      "#365f88",
+      "#765080",
+      "#316a67",
+      "#505448",
+      "#606455",
+      "#af4038",
+      "#4b713c",
+      "#88651c",
+      "#416c95",
+      "#83588d",
+      "#357572",
+      "#393c33"
+    ],
+    "cursor_text": "#f3efe5",
+    "cursor_stroke": null
+  },
+  "ui": {
+    "border": "#b8b7a6",
+    "frame": "#b8b7a6",
+    "sidebar": "#e9e3d6",
+    "foreground": "#393c33",
+    "derive": false,
+    "danger": "#a33935",
+    "selected": "#d5dfc9",
+    "success": "#3f6538",
+    "background": "#f3efe5",
+    "warning": "#805d18",
+    "accent": "#35684e",
+    "muted": "#606455",
+    "info": "#316a67"
+  },
+  "typography": {
+    "ligatures": true,
+    "enabled": false,
+    "font_family": null,
+    "font_size": null,
+    "font_weight": null,
+    "line_height": null,
+    "letter_spacing": null,
+    "ui_font_family": null,
+    "ui_font_size": null
+  },
+  "layout": {
+    "divider_width": 1.0,
+    "gutter": 6.0,
+    "radius": 8.0,
+    "shadow": false,
+    "padding_x": null,
+    "padding_y": null
+  },
+  "effects": {
+    "opacity": 100.0,
+    "material": "solid",
+    "blur": "none",
+    "background_image": "",
+    "background_media_kind": "image",
+    "background_image_opacity": null,
+    "background_image_fit": null,
+    "background_image_alignment": null,
+    "background_image_cover_chrome": false,
+    "cursor_shape": null
+  },
+  "schema_version": 1,
+  "id": "rice-paper",
+  "revision": 0,
+  "builtin": false,
+  "name": "宣纸 · rice-paper",
+  "appearance": "light",
+  "metadata": {
+    "author": "XVSHIFU",
+    "version": "1.0.0",
+    "license": "MIT",
+    "source": "https://github.com/XVSHIFU/pebrel-themes",
+    "background_provenance": "No background image"
+  },
+  "extensions": {}
+}

@@ -1,0 +1,89 @@
+{
+  "terminal": {
+    "background": "#eeeae3",
+    "foreground": "#363733",
+    "cursor_text": "#eeeae3",
+    "selection_background": "#d6dacb",
+    "selection_foreground": "#363733",
+    "palette": [
+      "#303b38",
+      "#983d49",
+      "#386649",
+      "#7c5b23",
+      "#3c628c",
+      "#79558b",
+      "#326b70",
+      "#363733",
+      "#60675f",
+      "#a34450",
+      "#43714f",
+      "#826122",
+      "#466d98",
+      "#865f98",
+      "#37767b",
+      "#faf8f3"
+    ],
+    "cursor": "#5d6545",
+    "cursor_stroke": null
+  },
+  "ui": {
+    "success": "#386649",
+    "background": "#eeeae3",
+    "accent": "#5d6545",
+    "selected": "#d6dacb",
+    "danger": "#983d49",
+    "foreground": "#363733",
+    "info": "#326b70",
+    "border": "#b6b6a7",
+    "muted": "#5a5d54",
+    "sidebar": "#dfdbd3",
+    "derive": false,
+    "warning": "#7c5b23",
+    "frame": "#b6b6a7"
+  },
+  "typography": {
+    "enabled": false,
+    "ligatures": true,
+    "font_family": null,
+    "font_size": null,
+    "font_weight": null,
+    "line_height": null,
+    "letter_spacing": null,
+    "ui_font_family": null,
+    "ui_font_size": null
+  },
+  "layout": {
+    "shadow": false,
+    "divider_width": 1.0,
+    "gutter": 6.0,
+    "radius": 8.0,
+    "padding_x": null,
+    "padding_y": null
+  },
+  "effects": {
+    "blur": "mica",
+    "background_image_cover_chrome": true,
+    "material": "glass",
+    "background_media_kind": "image",
+    "opacity": 70.0,
+    "background_image_opacity": 100,
+    "background_image_fit": "uniform_to_fill",
+    "background_image_alignment": "center",
+    "background_image": "assets/background.png",
+    "cursor_shape": null
+  },
+  "schema_version": 1,
+  "id": "concrete-sunlight",
+  "revision": 0,
+  "builtin": false,
+  "name": "光庭 · concrete-sunlight",
+  "appearance": "light",
+  "metadata": {
+    "author": "XVSHIFU",
+    "version": "1.0.0",
+    "license": "MIT AND CC0-1.0",
+    "source": "https://github.com/XVSHIFU/pebrel-themes",
+    "background_provenance": "AI-generated with OpenAI image_gen; CC0-1.0"
+  },
+  "extensions": {}
+}

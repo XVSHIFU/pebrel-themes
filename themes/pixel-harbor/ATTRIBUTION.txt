@@ -1,0 +1,4 @@
+Author / 作者：XVSHIFU
+Theme configuration: MIT.
+Background: generated with OpenAI image_gen; CC0-1.0. See GENERATION.txt for prompts.
+Preview: real Pebrel 2.2.2 (9db57b6) window on Windows, with dedicated sample terminal output. Pebrel UI rights remain with its original rightsholders; the theme/media licenses do not relicense third-party UI.
