@@ -1,0 +1,8 @@
+Firefly fan themes / 流萤同人主题
+
+Theme configuration: MIT, copyright 2026 XVSHIFU.
+Character: Firefly from Honkai: Star Rail; character rights belong to their respective rights holders. Unofficial fan project, not endorsed by HoYoverse.
+These character images are excluded from the original landscape collection's CC0 dedication and from the repository's MIT software license. No rights to third-party characters or source artwork are granted by this repository.
+LicenseRef-Personal-Use identifies the package's intended personal-use context; it is not a grant of third-party rights or proof of permission to redistribute source artwork.
+
+Background provenance: Generated with OpenAI image_gen; Firefly character belongs to HoYoverse. Not part of the original CC0 landscape collection.

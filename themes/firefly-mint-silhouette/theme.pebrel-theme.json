@@ -1,0 +1,88 @@
+{
+  "terminal": {
+    "background": "#e9f6ef",
+    "foreground": "#29473f",
+    "cursor_text": "#f2fcf5",
+    "selection_background": "#b6dfcd",
+    "selection_foreground": "#203c33",
+    "palette": [
+      "#29473f",
+      "#9e3e57",
+      "#2e6848",
+      "#806019",
+      "#316b86",
+      "#785284",
+      "#247467",
+      "#425e52",
+      "#586c62",
+      "#ab435e",
+      "#326d4d",
+      "#84641f",
+      "#346d89",
+      "#80578a",
+      "#28786c",
+      "#29473f"
+    ],
+    "cursor": "#237b62",
+    "cursor_stroke": null
+  },
+  "ui": {
+    "success": "#2e6848",
+    "background": "#e9f6ef",
+    "accent": "#237b62",
+    "selected": "#b6dfcd",
+    "danger": "#9e3e57",
+    "foreground": "#29473f",
+    "info": "#316b86",
+    "border": "#a9c9bb",
+    "muted": "#536d61",
+    "sidebar": "#e0f1e8",
+    "derive": false,
+    "warning": "#806019",
+    "frame": "#a9c9bb"
+  },
+  "typography": {
+    "enabled": false,
+    "ligatures": true,
+    "font_family": null,
+    "font_size": null,
+    "font_weight": null,
+    "line_height": null,
+    "letter_spacing": null,
+    "ui_font_family": null,
+    "ui_font_size": null
+  },
+  "layout": {
+    "shadow": false,
+    "divider_width": 1.0,
+    "gutter": 6.0,
+    "radius": 8.0,
+    "padding_x": null,
+    "padding_y": null
+  },
+  "effects": {
+    "blur": "none",
+    "background_image_cover_chrome": true,
+    "material": "solid",
+    "background_media_kind": "image",
+    "opacity": 38,
+    "background_image_opacity": 100,
+    "background_image_fit": "uniform_to_fill",
+    "background_image_alignment": "right",
+    "background_image": "assets/background.png",
+    "cursor_shape": null
+  },
+  "schema_version": 1,
+  "id": "firefly-mint-silhouette",
+  "revision": 0,
+  "builtin": false,
+  "name": "星穹铁道 | 流萤·薄荷银羽",
+  "appearance": "light",
+  "metadata": {
+    "author": "XVSHIFU",
+    "version": "1.0.0",
+    "source": "Local Firefly fan-art theme",
+    "background_provenance": "Generated with OpenAI image_gen; Firefly character belongs to HoYoverse. Not part of the original CC0 landscape collection."
+  },
+  "extensions": {}
+}

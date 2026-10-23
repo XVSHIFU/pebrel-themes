@@ -208,5 +208,109 @@
       "cursor_shape": null
     },
     "validated": true
+  },
+  {
+    "id": "firefly-silhouette",
+    "name": "星穹铁道 | 流萤·银羽剪影",
+    "version": "1.0.0",
+    "bytes": 2576111,
+    "unpacked_bytes": 2575635,
+    "video_bytes": 0,
+    "sha256": "749631f1238567ca84c1d14414e5301cb6088575a45dd1794a905572fb5ff1c6",
+    "dimensions": [
+      1672,
+      940
+    ],
+    "effects": {
+      "blur": "none",
+      "background_image_cover_chrome": true,
+      "material": "solid",
+      "background_media_kind": "image",
+      "opacity": 45,
+      "background_image_opacity": 100,
+      "background_image_fit": "uniform_to_fill",
+      "background_image_alignment": "right",
+      "background_image": "assets/background.png",
+      "cursor_shape": null
+    },
+    "validated": true
+  },
+  {
+    "id": "firefly-mint-silhouette",
+    "name": "星穹铁道 | 流萤·薄荷银羽",
+    "version": "1.0.0",
+    "bytes": 2898054,
+    "unpacked_bytes": 2897578,
+    "video_bytes": 0,
+    "sha256": "43faa91ae7c64c80de39c0245796a2d962c1296807fe5043242e2c54b8ae888d",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "effects": {
+      "blur": "none",
+      "background_image_cover_chrome": true,
+      "material": "solid",
+      "background_media_kind": "image",
+      "opacity": 38,
+      "background_image_opacity": 100,
+      "background_image_fit": "uniform_to_fill",
+      "background_image_alignment": "right",
+      "background_image": "assets/background.png",
+      "cursor_shape": null
+    },
+    "validated": true
+  },
+  {
+    "id": "firefly-mint-portrait",
+    "name": "星穹铁道 | 流萤·浅青萤光",
+    "version": "1.0.0",
+    "bytes": 3295294,
+    "unpacked_bytes": 3294818,
+    "video_bytes": 0,
+    "sha256": "93bf42cdcb9fe825d518839d9b5520685dd4babbf5168d9ffd39ac2664250699",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "effects": {
+      "blur": "none",
+      "background_image_cover_chrome": true,
+      "material": "solid",
+      "background_media_kind": "image",
+      "opacity": 48,
+      "background_image_opacity": 100,
+      "background_image_fit": "uniform_to_fill",
+      "background_image_alignment": "right",
+      "background_image": "assets/background.png",
+      "cursor_shape": null
+    },
+    "validated": true
+  },
+  {
+    "id": "firefly-cream-keepsake",
+    "name": "星穹铁道 | 流萤·掌心微光",
+    "version": "1.0.2",
+    "bytes": 3615358,
+    "unpacked_bytes": 3614882,
+    "video_bytes": 0,
+    "sha256": "7a426f8b87280e59edd143c26b920da87b020668ec9f2b7213df147112816d54",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "effects": {
+      "blur": "none",
+      "background_image_cover_chrome": true,
+      "material": "solid",
+      "background_media_kind": "image",
+      "opacity": 45,
+      "background_image_opacity": 100,
+      "background_image_fit": "uniform_to_fill",
+      "background_image_alignment": "center",
+      "background_image": "assets/background-expanded.png",
+      "cursor_shape": null
+    },
+    "validated": true
   }
 ]

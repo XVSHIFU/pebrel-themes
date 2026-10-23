@@ -1,0 +1,88 @@
+{
+  "terminal": {
+    "background": "#f5eee4",
+    "foreground": "#302622",
+    "cursor_text": "#fff7ef",
+    "selection_background": "#e8cbd0",
+    "selection_foreground": "#48313a",
+    "palette": [
+      "#493c39",
+      "#a34151",
+      "#38684f",
+      "#805c22",
+      "#376982",
+      "#805579",
+      "#2f706c",
+      "#63524b",
+      "#756357",
+      "#ae435c",
+      "#40724e",
+      "#876122",
+      "#426f8b",
+      "#895982",
+      "#367a73",
+      "#493c39"
+    ],
+    "cursor": "#9a5669",
+    "cursor_stroke": null
+  },
+  "ui": {
+    "success": "#38684f",
+    "background": "#f5eee4",
+    "accent": "#9a5669",
+    "selected": "#e8cbd0",
+    "danger": "#a34151",
+    "foreground": "#302622",
+    "info": "#376982",
+    "border": "#cbb7a6",
+    "muted": "#79645c",
+    "sidebar": "#f0e5d9",
+    "derive": false,
+    "warning": "#805c22",
+    "frame": "#cbb7a6"
+  },
+  "typography": {
+    "enabled": false,
+    "ligatures": true,
+    "font_family": null,
+    "font_size": null,
+    "font_weight": null,
+    "line_height": null,
+    "letter_spacing": null,
+    "ui_font_family": null,
+    "ui_font_size": null
+  },
+  "layout": {
+    "shadow": false,
+    "divider_width": 1.0,
+    "gutter": 6.0,
+    "radius": 8.0,
+    "padding_x": null,
+    "padding_y": null
+  },
+  "effects": {
+    "blur": "none",
+    "background_image_cover_chrome": true,
+    "material": "solid",
+    "background_media_kind": "image",
+    "opacity": 45,
+    "background_image_opacity": 100,
+    "background_image_fit": "uniform_to_fill",
+    "background_image_alignment": "center",
+    "background_image": "assets/background-expanded.png",
+    "cursor_shape": null
+  },
+  "schema_version": 1,
+  "id": "firefly-cream-keepsake",
+  "revision": 3,
+  "builtin": false,
+  "name": "星穹铁道 | 流萤·掌心微光",
+  "appearance": "light",
+  "metadata": {
+    "author": "XVSHIFU",
+    "version": "1.0.2",
+    "source": "Local Firefly fan-art theme",
+    "background_provenance": "User-provided illustration with AI-assisted landscape outpainting. Original artist/license unspecified; local personal use only."
+  },
+  "extensions": {}
+}
